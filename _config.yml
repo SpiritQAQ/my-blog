@@ -80,3 +80,4 @@ theme: vexo
 deploy:
   type: git
   repo: https://github.com/SpiritQAQ/my-blog.git
+  branch : gh-pages
