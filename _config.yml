@@ -79,5 +79,5 @@ theme: vexo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo:  https://github.com/SpiritQAQ/my-blog.git
+  repo: https://SpiritQAQ:345825239asd@github.com/SpiritQAQ/my-blog.git
   branch : gh-pages
