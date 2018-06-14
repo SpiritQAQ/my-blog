@@ -8,3 +8,8 @@ git add source  //经测试每次只要更新sorcerer中的文件到Github中即
 git push origin hexo  //更新分支
 hexo d -g
 ```
+
+`hexo generate`生成静态文件。-d, --deploy	文件生成后立即部署网站,-w --watch	监视文件变动
+`hexo server`启动服务器。默认情况下，访问网址为： http://localhost:4000/
+`hexo deploy`部署网站。-g, --generate	部署之前预先生成静态文件
+`hexo clean`清除缓存文件 (db.json) 和已生成的静态文件 (public)
