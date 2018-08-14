@@ -12,6 +12,7 @@ shroudcfg变来的
 
 ### 内容
 unbindall
+m_pitch "0.03"
 bind "0" "slot10"
 bind "1" "slot1"
 bind "2" "slot2"
